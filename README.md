@@ -29,7 +29,6 @@ I hope to learn and contribute to the community.
 
    
 <div>
-  [![JohnMoonWhite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnMoonWhite)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Snake animation](https://github.com/JohnMoonWhite/JohnMoonWhite/blob/output/github-contribution-grid-snake.svg)
  
