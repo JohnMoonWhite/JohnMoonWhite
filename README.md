@@ -15,7 +15,7 @@ I hope to learn and contribute to the community.
 <div align="center">
   <a href="https://github.com/JohnMoonWhite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnMoonWhite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://wakatime.com/share/@64cba239-aa0f-4850-8982-138303c463a0/d5761092-cda6-414e-9e73-5d283f9689eb.svg"/>
+  <img height="200em" src="https://wakatime.com/share/@64cba239-aa0f-4850-8982-138303c463a0/b530b0f0-1b0f-44bf-baca-e1280d0a7363.svg"/>
   
 </div>
   
