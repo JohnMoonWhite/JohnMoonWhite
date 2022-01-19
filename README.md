@@ -29,7 +29,7 @@ I hope to learn and contribute to the community.
 
    
 <div> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMoonWhite&layout=compact)](https://github.com/JohnMoonWhite/github-readme-stats)
   ![Snake animation](https://github.com/JohnMoonWhite/JohnMoonWhite/blob/output/github-contribution-grid-snake.svg)
  
 </div>
