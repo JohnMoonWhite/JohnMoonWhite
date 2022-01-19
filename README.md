@@ -16,6 +16,7 @@ I hope to learn and contribute to the community.
   <a href="https://github.com/JohnMoonWhite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnMoonWhite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img heigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMoonWhite&layout=compact)](https://github.com/JohnMoonWhite/github-readme-stats"/>
+  <img height="100em" src="https://wakatime.com/share/@64cba239-aa0f-4850-8982-138303c463a0/d5761092-cda6-414e-9e73-5d283f9689eb.svg"/>
   
 </div>
   
@@ -29,7 +30,7 @@ I hope to learn and contribute to the community.
 
    
 <div> 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnMoonWhite)](https://github.com/anuraghazra/github-readme-stats)
+
   ![Snake animation](https://github.com/JohnMoonWhite/JohnMoonWhite/blob/output/github-contribution-grid-snake.svg)
  
 </div>
